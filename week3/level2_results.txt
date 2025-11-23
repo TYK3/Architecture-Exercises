@@ -1,0 +1,210 @@
+LEVEL 2 RESULTS
+================
+
+--- LEVEL 2 RUN ---
+Prompt: 'AI will change education by'
+max_length=40, temperature=0.7, top_k=50
+Time taken: 3.774 seconds
+Token count: 138
+Generated text:
+AI will change education by default to take advantage of the new technology.
+--------------------------------------------------
+
+--- LEVEL 2 RUN ---
+Prompt: 'AI will change education by'
+max_length=60, temperature=1.0, top_k=50
+Time taken: 0.891 seconds
+Token count: 69
+Generated text:
+AI will change education by giving it flexibility and resources.
+
+It was a huge step towards establishing schools in areas where the government could have reduced the number of schools but its lack of support could have prevented such an important decision.
+"We believe that it is important for us that our national education system can work together and become better.
+--------------------------------------------------
+
+--- LEVEL 2 RUN ---
+Prompt: 'AI will change education by'
+max_length=60, temperature=1.2, top_k=100
+Time taken: 4.291 seconds
+Token count: 260
+Generated text:
+AI will change education by its legalised and constitutional authority. The move in response to recent concerns about the future of 'white space diplomacy' will strengthen our capacity to ensure the rights of all the affected.
+
+ I should stress that students only 'feel as though a normal and normal place'. This policy will give them fundamental autonomy in decision making. This is meant to preserve one group of individuals and group - what the British and other British Governments call 'equal sharing'. There are some issues to be scrutinised through the courts - we will not look at whether the US legalised some sort of noncitizen issue or try to give it another chance. Indeed there have been attempts – too sometimes by British lawyers and lawyers using the courts to defend the rights of all the people from oppression, poverty, the internet, the death sentence and death threats for that matter, but that remain generally regarded with great concern of constitutional protection.
+Therefore, the key to taking account of our educational processes is to be fully transparent and transparent with the appropriate educational powers based on the needs of all students by a voluntary approach to school resource learning.
+In order to achieve that transparency through an accountable, transparent and transparent approach at home, students need to be transparent in where they live, how much information they receive to their families
+--------------------------------------------------
+
+--- LEVEL 2 RUN ---
+Prompt: 'In 20 years, most jobs will'
+max_length=40, temperature=0.7, top_k=50
+Time taken: 3.822 seconds
+Token count: 224
+Generated text:
+In 20 years, most jobs will be transferred to public schools, according to the Department of Education.
+
+The Department of Education said in a statement: "We've seen a significant increase in job transfers over the last four years, and we anticipate that this will continue to impact our educational system.
+"Over the past decade, we have seen a significant increase in job transfers between public schools and private schools.
+"For the first time since the introduction of the Fair Work Act in 2009, we have seen a significant increase in the number of jobs transferred to private schools and private schools.
+"All these increases have been attributable to changes in quality of education and are significant for our students and teachers alike.
+"We believe that the Government is committed to ensuring that the Government is committed to supporting the creation of an environment of opportunity for all students and teachers across the country."
+The Government's Education portfolio includes:
+--------------------------------------------------
+
+--- LEVEL 2 RUN ---
+Prompt: 'In 20 years, most jobs will'
+max_length=60, temperature=1.0, top_k=50
+Time taken: 3.493 seconds
+Token count: 259
+Generated text:
+In 20 years, most jobs will be lost.
+
+As the global energy sector grew, people from every region and sector saw a dramatic rise in unemployment in 2009 and 2010, the government announced today.
+The figures are to be released in June ahead of a summit on climate change in Paris this month which will focus on areas that were likely to be affected by greenhouse gas emissions, as well as the potential of more developed countries.
+Some of the areas where most jobs will be lost on the global market are in areas such as Brazil, Mexico, Pakistan, the Philippines, Europe, and China, such as the United States and many in emerging markets, which are in need of energy, employment and opportunity to take back their investment portfolios.
+About half of all jobs will be lost on the global market. In China it has had a reduction in economic activity from 20 years ago, and it remains the most populous in the world in terms of annual real terms.
+These sectors have been particularly strong in the United States, in particular countries like India and China. The report says that there are now 5,400 foreign-owned workers in the United States.
+The report also highlights five new sectors: business and service and health service, energy and environment.
+The report
+--------------------------------------------------
+
+--- LEVEL 2 RUN ---
+Prompt: 'In 20 years, most jobs will'
+max_length=60, temperature=1.2, top_k=100
+Time taken: 2.834 seconds
+Token count: 221
+Generated text:
+In 20 years, most jobs will cease due to the shift in investment.
+
+"It may actually be as bad as its long history. But the cost is now pretty much equivalent in a lot of countries of the international population, and so we are less worried," the economic outlook says.
+"One of the big determinants of demand is the efficiency of local capital supply."
+New construction in two communities in Kenya and Derema has been stalled.
+The main reason for the shortfall is not because, like the US in the years before, Kenya's economy continues to have a poorer infrastructure than Kenya's. In any event, this time most of the production is going overseas.
+The UK, which is developing the economy and buying housing, is pushing to join Europe. After Japan's rapid economic growth, as well as growth of overseas producers such as Australia-based British firm Ennet, the average per square meter of residential production is about £65.
+Reaching this level would require the government work into a similar case, said Ennet Chief Innovation Officer Nick Beale.
+--------------------------------------------------
+
+--- LEVEL 2 RUN ---
+Prompt: 'The ideal morning routine starts with'
+max_length=40, temperature=0.7, top_k=50
+Time taken: 3.574 seconds
+Token count: 261
+Generated text:
+The ideal morning routine starts with a few steps to get your hair done and I have to admit, I really like doing that. When you do that, you're going to want to do so much more than you'd like to do.
+
+So, here are some tips for getting your hair done and you can take advantage of it.
+Take some time to get your hair done and you can start by walking around like this:
+Use an electric chair to sit on the floor while you sit.
+Take a walk around your neck, and you'll notice it's quite hard to get it done. When you do it, you're able to sit on your neck for a while.
+Take a walk around your waist and you'll notice it's quite hard to get it done. When you do it, you're able to sit on your neck for a while.
+Take a walk around your neck, and you'll notice it's quite hard to get it done. When you do it, you're able to sit on your neck for a while. You'll notice it's quite hard to get it done. When you do it, you're able to sit on your neck for a while.
+Take a walk around your neck, and you'll notice it's quite hard to
+--------------------------------------------------
+
+--- LEVEL 2 RUN ---
+Prompt: 'The ideal morning routine starts with'
+max_length=60, temperature=1.0, top_k=50
+Time taken: 3.583 seconds
+Token count: 261
+Generated text:
+The ideal morning routine starts with two people drinking wine, then three people drinking tea. As with other things, we know they go out and drink tea and you have to be aware that you're taking a sip before you go back to the bathroom, so the end is a good time to just put your mouth out. So be careful not to turn your back on the drink with your hands and your backs together.
+
+I like to think this advice is perfect for the first couple at the time and what's important to people in this group is that the rest of the people that want to give time to that plan. Just don't talk too long and your mind will be distracted by the idea of time.
+And now that we have this new rule we should realize what it's like to just do some homework for each person and not think about it forever until it really does. You're probably going to find that you need to be vigilant and aware of anything that happens to a person.
+The second rule is that remember that the things that happen that day before can be considered to be very important to you during the rest of the day. If I had a conversation with someone who was sitting down for a coffee or I'd just have said that I was thinking about going out and actually taking
+--------------------------------------------------
+
+--- LEVEL 2 RUN ---
+Prompt: 'The ideal morning routine starts with'
+max_length=60, temperature=1.2, top_k=100
+Time taken: 2.843 seconds
+Token count: 221
+Generated text:
+The ideal morning routine starts with the use of a hand dryer where you can turn every washing dryer to the light. Next then we aim to pick up some moisture, including a wet-soaked warm-soaked buttercream cream:
+We're going to take a minute to follow the steps to cut loose and then use these cream to moisten the creams!
+You can get that wet creams from NAMCO.
+Pour a thin buttercream on a dry dish and then wipe it all home, as soon as this wet cream was smooth.
+Using NAMCO you can achieve that, which really makes it all work-in-one and perfect for the day.
+From beginning to end make sure you already have clean crumbs where your hands were, cover up (or make your dough) and use a dry cloth to dust everything. This ensures that I keep up with wet daily! Try to dry the dishes and your hands will still stand up even within the hand dryer!
+
+Check out those we added HERE for more swatches before trying.
+--------------------------------------------------
+
+--- LEVEL 2 RUN ---
+Prompt: 'The biggest challenge in robotics is'
+max_length=40, temperature=0.7, top_k=50
+Time taken: 2.371 seconds
+Token count: 175
+Generated text:
+The biggest challenge in robotics is that you have to have a whole new technology that can deliver the best results. The company's technology has always been the best in the world, but not so much for your business.
+
+"You can't just put everything on autopilot, which is something that's going to drive you to the limit," says Mr. Sargent.
+"You have to have a lot of skills to make sure that you can make it happen."
+Mr. Sargent says the company has started to incorporate all of the skills into its AI systems, which will help keep them at bay.
+"We're working on an AI system that helps people with problems and help ensure that they're doing well," he says.
+The company also has a new system that will allow users to ask if they have a problem to solve.
+--------------------------------------------------
+
+--- LEVEL 2 RUN ---
+Prompt: 'The biggest challenge in robotics is'
+max_length=60, temperature=1.0, top_k=50
+Time taken: 2.364 seconds
+Token count: 141
+Generated text:
+The biggest challenge in robotics is now at the human end of every generation, and there's already a significant role to play now, but robotisation will have a significant impact."
+
+The following data from Carnegie Mellon University will be used in the analysis of individual skills, which might change the performance of the human in the future.
+
+For a detailed analysis of the data, please see the full data.
+
+The figures used in the dataset, are included in the report provided for analysis by Carnegie Mellon University for the 2016 Global Mobility Trends.
+--------------------------------------------------
+
+--- LEVEL 2 RUN ---
+Prompt: 'The biggest challenge in robotics is'
+max_length=60, temperature=1.2, top_k=100
+Time taken: 3.614 seconds
+Token count: 261
+Generated text:
+The biggest challenge in robotics is securing public support for these machines, partly because many robots are already privately sourced -- there is also a much larger community as well.
+
+"We are encouraging that, if you are one of those people who is using machines to work, you might decide not to stay until you find your company," says Doug Nelson, president, software engineering at Verdict.com. "Why do you hope they will do the right thing? Can you help them reach the level of open markets that you consider attractive and cheap? Could these robots be great for many people?
+
+"Don't rush in too early in order to earn and get some public funds, particularly during highly uncertain moments."
+Image for the photo:
+He points to a man who recently raised $27m for a computer chip project.
+"The future is as interesting as we possibly were," he says. "Because it has got its share of potential."
+Image for the photo:
+It could also save on energy.
+"We're willing to spend a lot of time and money on bringing more users to the market," he told investors in a Q4 presentation at Goldman Sachs during our Q4 earnings call. "A person and he's obviously using computers to work at the same scale
+--------------------------------------------------
+
+--- LEVEL 2 RUN ---
+Prompt: 'In the future, cities will'
+max_length=40, temperature=0.7, top_k=50
+Time taken: 3.653 seconds
+Token count: 141
+Generated text:
+In the future, cities will have to decide whether to bring in workers, not just for jobs.
+--------------------------------------------------
+
+--- LEVEL 2 RUN ---
+Prompt: 'In the future, cities will'
+max_length=60, temperature=1.0, top_k=50
+Time taken: 0.923 seconds
+Token count: 67
+Generated text:
+In the future, cities will have to make the difficult decisions that some of their neighbors get."
+
+In New York and Washington, advocates of New York’s current plan for the affordable affordable housing market are hoping that their communities in America will finally recognize the economic effects of New York’s plans for affordable housing.
+--------------------------------------------------
+
+--- LEVEL 2 RUN ---
+Prompt: 'In the future, cities will'
+max_length=60, temperature=1.2, top_k=100
+Time taken: 3.803 seconds
+Token count: 262
+Generated text:
+In the future, cities will have an economic incentive to deal their own needs without causing public instability. Today‬ we‮ve recently talked about some really impressive progress against the most fundamental problem of the emerging market. We‷d need to focus, indeed, on infrastructure. (We did ask that our readers choose not to change positions on the city‡s current stance in the current position on infrastructure. Of course, both sectors hold huge wealth and may want to contribute some money to some innovative things in some ways.) So whether in our current position, we‪have not decided. By making matters better, we should recognize we are wrong. As far as improving the existing infrastructure, only that we are still investing are hard drives for innovation (and at present we have a relatively low amount of private investment‡). Furthermore, if city dwellers (at home or below) are looking to open new properties in order to grow, or even take over other things, why not contribute additional? To make matters more affordable to them, we should be better at moving away from existing installations that may or may not have fixed a significant lack of clean energy to address these areas? We could have a plan built where developers are invested only because they are, in turn, better at giving public power
+--------------------------------------------------
+
