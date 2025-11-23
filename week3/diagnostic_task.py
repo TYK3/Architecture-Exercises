@@ -297,6 +297,19 @@ for i, prompt in enumerate(test_prompts):
     
     # Clean it up a bit first (using the fix from Level 2)
     cleaned_text = output.strip()
+    cleaned_text = re.sub(r'\n{3,}', '\n\n', cleaned_text)
+    
+    # Calculate the score
+    quality_score = calculate_quality_score(cleaned_text)
+    
+    print(f"Test {i+1}: '{prompt}'")
+    print(f"Generated: {cleaned_text[:100]}...") # Just show the start
+    print(f"Quality Score: {quality_score}/100")
+    
+    if quality_score > 80:
+        print("Verdict: Great job! 🌟")
+    elif quality_score > 50:
+        print("Verdict: It's okay. 👍")
     else:
         print("Verdict: Needs improvement. 😕")
     print("-" * 30)
